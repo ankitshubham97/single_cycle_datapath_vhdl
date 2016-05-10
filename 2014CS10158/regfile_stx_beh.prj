@@ -1,0 +1,3 @@
+vhdl isim_temp "register32.vhd"
+vhdl isim_temp "mux16_1.vhd"
+vhdl isim_temp "regfile.vhd"

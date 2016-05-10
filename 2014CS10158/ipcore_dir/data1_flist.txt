@@ -1,0 +1,16 @@
+# Output products list for <data1>
+blk_mem_gen_ds512.pdf
+blk_mem_gen_readme.txt
+data1.asy
+data1.gise
+data1.mif
+data1.ngc
+data1.sym
+data1.v
+data1.veo
+data1.vhd
+data1.vho
+data1.xco
+data1.xise
+data1_flist.txt
+data1_xmdf.tcl
